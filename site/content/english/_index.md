@@ -12,15 +12,15 @@ banner:
 
 # Features
 features:
-  - title: "What's Included in Hugoplate"
+  - title: "융합적 사고와 소통 중심의 IT 서비스 기획"
     image: "/images/service-1.png"
     image_alt: "Illustration of interface cards: a video player, bar charts, sliders and a loading spinner"
     content: "Hugoplate is a comprehensive starter template that includes everything you need to get started with your Hugo project. What's Included in Hugoplate"
     bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Hugo and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
+      - "데이터 분석 기반의 문제 정의 및 서비스 개선 방안 도출 (ADsP 자격 보유)"
+      - "C/C++, Python 중심의 프로그래밍 이해를 바탕으로 한 개발팀과의 원활한 기술 커뮤니케이션"
+      - "프랑스·아프리카학 전공을 통해 키운 다문화적 시각과 세심한 사용자 경험 분석"
+      - "Git, GitHub Actions, Vue.js 등을 활용한 정적·웹 애플리케이션 프로젝트 경험"
       - "SEO-optimized for better search engine rankings"
       - "**Open-source and free** for personal and commercial use"
     button:
