@@ -109,36 +109,31 @@ This is a simple warning.
 {{< /notice >}}
 
 ---
+### 🎯 역량과 적용 사례
+{#competencies}
 
-### Tab
+{{< COMPETENCIES >}}
+{{< tab "Communication" >}}
 
-{{< tabs >}}
-{{< tab "Tab 1" >}}
+#### 글로벌 소통 역량
 
-#### Hey There, I am a tab
-
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
-
-{{< /tab >}}
-
-{{< tab "Tab 2" >}}
-
-#### I wanna talk about the assassination attempt
-
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
-
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+프랑스어 전공 수업을 수강하며 외국인 교수님과 꾸준히 대화를 나누고 작성한 글과 발표에 대해 구체적인 피드백을 주고받는 정교한 소통 방식을 연습했습니다. 이 과정에서 언어적 장벽을 넘어 복잡한 생각을 상대방의 눈높이에 맞춰 명확하게 전달하고 경청하는 태도를 몸소 익혔습니다.
 
 {{< /tab >}}
 
-{{< tab "Tab 3" >}}
+{{< tab "Technical" >}}
 
-#### We know you’re dealing in stolen ore
+#### 개발 프로세스 및 시스템 기술 이해도(C, C++, Python, Linux)
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+Ubuntu Linux 기반에서 구조체와 바이너리 파일 입출력을 활용한 계정 관리 시스템 프로그램을 직접 구현하며 시스템 하부의 데이터 처리 방식을 깊이 이해했습니다. 또한 VS Code와 Git/GitHub를 활용해 빌드부터 버전 관리까지의 실무적 개발 프로세스를 체득했습니다.
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo
+{{< /tab >}}
 
+{{< tab "Insight" >}}
+
+#### 데이터 기반 문제 해결
+
+데이터분석준전문가(ADsP) 자격을 취득하는 과정에서 정량적 지표를 다루는 방법론을 배우고, 감이나 단순 추측이 아닌 객관적 데이터에 기반해 문제를 바라보는 시각을 확립했습니다. 프로젝트 진행 중 예기치 않은 변수나 오류가 발생할 때마다 수집된 로그와 지표 데이터를 분석하여 문제의 근본 원인을 논리적으로 추적했습니다. 
 {{< /tab >}}
 {{< /tabs >}}
 
