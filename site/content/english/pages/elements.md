@@ -109,10 +109,10 @@ This is a simple warning.
 {{< /notice >}}
 
 ---
-### 🎯 역량과 적용 사례
-{#competencies}
+### 🎯 역량과 적용 사례 {#competencies}
 
-### competencies
+{{< tabs >}}
+
 {{< tab "Communication" >}}
 
 #### 글로벌 소통 역량
