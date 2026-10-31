@@ -1,20 +1,19 @@
 ---
-title: "Hey, I am Taeyoung!"
+title: "Hey, I am Tae young Gwon!"
 meta_title: "About"
-description: "this is meta description"
+description: "권태영 - IT 서비스 기획자 및 PM 포트폴리오"
 image: "/images/image-placeholder.png"
 layout: "about"
 draft: false
 ---
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed. Fugit voluptatibus perspiciatis assumenda nulla ad nihil, omnis vel, doloremque sit quam autem optio maiores, illum eius facilis et quo consectetur provident dolor similique! Enim voluptatem dicta expedita veritatis repellat dolorum impedit, provident quasi at.
-
+언어와 문화를 탐구하며 사람의 마음을 읽는 프랑스학과, 논리적인 구조로 세상을 구축하는 컴퓨터인공지능학이라는 두 세계를 넘나들며 기술 너머의 '사람'을 바라보는 시각을 배웠습니다. 저에게 소통이란 단순히 정보를 주고받는 것을 넘어 상대의 세계에 깊이 공감하고 숨은 니즈를 발견해 내는 즐거운 여정입니다. 사람들과 대화하며 그들이 마주한 막연한 불편함을 발견하고, 이를 정교한 데이터와 명확한 서비스 로직으로 다듬어 실체 있는 변화로 바꿔나가는 IT 서비스 기획 및 PM에 매료된 이유도 바로 여기에 있습니다. 사람을 향한 세심한 시선과 원활한 소통 능력을 바탕으로 개발진과 사용자 사이의 가장 따뜻하고 든든한 다리가 되어, 모두의 일상에 자연스럽게 스며드는 최상의 서비스 경험을 선물하고자 이 길을 선택했습니다.
 ### This is a title
 
-* Lorem ipsum, dolor sit amet
-* Enim voluptatem dicta expedita veritatis
-* Fugit voluptatibus perspiciatis assumenda
-* Enim voluptatem dicta expedita
-* Corporis illum nesciunt commodi vel
+* 글로벌 소통 역량:
+* 개발 프로세스 및 시스템 기술 이해도(C, C++, Python, Linux)
+* 데이터 기반 문제 해결
+* 변화에 유연하게 대응하는 애자일(Agile) 마인드셋
+* 사용자 중심 UX 공감
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed. Fugit voluptatibus perspiciatis assumenda nulla ad nihil, omnis vel, doloremque sit quam autem optio maiores, illum eius facilis et quo consectetur provident dolor similique! Enim voluptatem dicta expedita veritatis repellat dolorum impedit, provident quasi at. Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed. Fugit voluptatibus perspiciatis assumenda nulla ad nihil, omnis vel, doloremque sit quam autem optio maiores, illum eius facilis et quo consectetur provident dolor similique! Enim voluptatem dicta expedita veritatis repellat dolorum impedit, provident quasi at.
+프랑스·아프리카학을 전공하며 외국인 교수님과 꾸준히 이야기를 나누고 피드백을 주고받다 보니, 서로 다른 배경 속에서도 적극적으로 다가가 대화하는 소통의 즐거움을 알게 되었습니다. 이러한 경험은 컴퓨터공학을 복수전공하며 C, C++, Python과 Linux 환경을 접할 때도 기술을 어렵게 느끼기보다 개발자의 시선을 이해해 보는 계기가 되어 주었습니다. 수업과 프로젝트를 거치며 감이나 추측보다는 ADsP를 공부하며 익힌 데이터 지표로 진짜 문제를 들여다보려 노력했고, 과제 중 예기치 못한 변수가 생길 때마다 팀원들과 상황을 공유하며 유연하게 대안을 찾아 나갔습니다. 언어와 사람을 탐구하며 배운 공감의 자세에 기술적 이해와 데이터적 시각을 더해, 앞으로도 사용자의 입장에 깊이 들어가는 서비스를 하나씩 만들어가고자 합니다.
