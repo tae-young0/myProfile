@@ -112,7 +112,7 @@ This is a simple warning.
 ### 🎯 역량과 적용 사례
 {#competencies}
 
-{{< competencies >}}
+### competencies
 {{< tab "Communication" >}}
 
 #### 글로벌 소통 역량
