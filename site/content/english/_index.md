@@ -1,7 +1,7 @@
 ---
 # Banner
 banner:
-  title: "Hello! I'm Tae young"
+  title: "Portfolio"
   content: "IT 서비스 기획자 권태영.언어와 문화를 탐구하던 시선이 코드와 데이터로 확장된 이야기"
   image: "/images/banner.png"
   image_alt: "Illustration of a person working on a laptop at a desk"
