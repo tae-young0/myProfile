@@ -10,8 +10,17 @@ draft: false
 
 {{< toc >}}
 
-Here is an example of headings. You can use this heading by the following markdown rules. For example: use `#` for heading 1 and use `######` for heading 6.
+### 📌 목차
+* [🎯 1. 역량과 적용 사례](##competencies)
+* [📌 2. 활동 시기와 진행 상태](#work)
 
+### 📌 활동 시기와 진행 상태 {##work}
+
+📌 대표 활동: Linux C 기반 계정 관리 시스템 개발
+* **수행 기간:** 2026년 9월 ~ 2026년 10월
+* **진행 상태:** **완료 (Completed)**
+**[활동 내용]**
+Ubuntu Linux 환경에서 C 언어와 바이너리 파일 입출력(File I/O)을 활용하여 사용자 계정 생성, 조회, 수정 기능을 갖춘 프로그램(`ac_create.c`, `ac_query.c`, `ac_update.c`)을 직접 설계하고 구현했습니다. 구조체(`struct`) 기반 데이터 제어 및 예외 처리 로직을 적용하고, Git/GitHub을 통한 버전 관리 프로세스까지 완료하였습니다.
 # Heading 1
 
 ## Heading 2
