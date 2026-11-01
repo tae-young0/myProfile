@@ -1,5 +1,5 @@
 ---
-title: "Hi! I'm tae young"
+title: "(IT Product Manager)"
 meta_title: "About"
 description: "this is meta description"
 image: "/images/image-placeholder.png"
@@ -11,12 +11,15 @@ draft: false
 * [🎯 2. 역량과 적용 사례](#competencies)
 * [🚀 3. 학습 목표와 실행 계획](#goals)
 
+### Education
+- 2024.03 전북대학교 프랑스아프리카학과 입학(컴퓨터인공지능학부 복수전공)
 ---
 
 ### About 
-언어를 통해 ‘사람과 소통’하는 법을 배웠고, IT를 통해 ‘사용자와 서비스를 연결’합니다. 기술적 도전과 창의적이고 트렌디한 시각을 바탕으로 직관적이고 가치 있는 IT 제품을 만드는 PM을 꿈꿉니다.
+언어를 통해 ‘사람과 소통’하는 법을 배웠고, IT를 통해 ‘사용자와 서비스를 연결’합니다. <br> 기술적 도전과 창의적이고 트렌디한 시각을 바탕으로 직관적이고 가치 있는 IT 제품을 만드는 PM을 꿈꿉니다.
+---
 
-### 🎯 Interest {#interest}
+### Interest {#interest}
 
 {{< notice "IT 서비스 기획자" >}}
 사용자 경험(UX)을 설계하여, 상상을 현실의 서비스로 구현해 내는 **'서비스의 아키텍트'**
@@ -30,7 +33,7 @@ draft: false
 세심한 시선과 원활한 소통 능력으로 개발진과 사용자 사이의 든든한 다리가 되어, 일상에 자연스럽게 스며드는 서비스 경험을 만들어가겠습니다.
 
 ---
-### 🎯 competencies{#competencies}
+### Competencies{#competencies}
 
 {{< tabs >}}
 
@@ -60,7 +63,7 @@ Ubuntu Linux 기반에서 구조체와 바이너리 파일 입출력을 활용�
 {{< /tabs >}}
 
 ---
-### 🚀 Goals {#goals}
+### Goals {#goals}
 
 * 초급 프로젝트 완수 및 Git/GitHub 협업
 * SQLD 자격증 취득 

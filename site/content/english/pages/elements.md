@@ -21,19 +21,24 @@ draft: false
 
 {{< accordion "Linux C 기반 계정 관리 시스템 개발" >}}
 
-- 2026.09 ~ 2026.10 | 개인 프로젝트
+- 2026.09 ~ | 개인 프로젝트
 - **진행 상태:** 🟡 진행 중 (In Progress)
 - **활동 내용:** Ubuntu Linux 환경에서 C 언어와 바이너리 파일 입출력(File I/O)을 활용하여 사용자 계정 생성, 조회, 수정 기능을 갖춘 프로그램(`ac_create.c`, `ac_query.c`, `ac_update.c`)을 직접 설계하고 구현
 
 {{< /accordion >}}
 
 ---
-### 📌 활동 목적(Purpose)
+### Linux Account
+
+> 기간 : 2026.09 | 기여도: 100% | WORK : 개발, 구현
+
+
+### Purpose
   * **해결하려 한 문제:** 기존 텍스트 기반 파일 입출력 방식의 한계로 인해 데이터 처리 속도 저하 및 예기치 않은 데이터 손상 및 인코딩 오류
   * **달성하려 한 목표:** Ubuntu Linux 환경에서 C 언어와 바이너리 파일 입출력(File I/O) 방식을 활용해 데이터 처리 효율성을 높이고, `struct account` 구조체 설계 및 파일 포인터 제어를 통해 사용자 계정 생성(`ac_create.c`), 조회(`ac_query.c`), 수정(`ac_update.c`)이 안전하게 이루어지는 구조적 시스템을 구축
 
 ---
-### 📌 본인 역할 및 기여 범위
+### 본인 역할 및 기여 범위
  * **수행 형태:** **개인 수행 과제 (Individual Project)**
  * **기여:**
   1. **구조체 및 파일 구조 설계:** 계정 정보(ID, 이름, 잔액 등)를 체계적으로 관리하기 위한 `struct account` 바이너리 레코드 구조를 직접 설계
@@ -41,7 +46,7 @@ draft: false
   3. **파일 포인터 제어 및 예외 처리:** `fseek`과 `fread`/`fwrite`를 활용해 지정된 위치의 레코드를 즉시 탐색·수정하는 로직을 구축하였으며, 잘못된 입력이나 파일 접근 오류에 대한 예외 처리 로직을 전담 구현
 
 ---
-### 📌 수행 과정과 선택 이유
+### 수행 과정과 선택 이유
   1. **요구사항 분석 및 설계:** 사용자 계정 데이터 구조체(`struct account`) 정의 및 기능별 모듈 분리 설계
   2. **모듈 구현 및 예외 처리:** `ac_create.c`, `ac_query.c`, `ac_update.c` C 소스 파일 구현 및 파일 입출력 예외 로직 작성
   3. **디버깅 및 버전 관리:** Ubuntu Linux 환경에서 GCC 빌드, 실행 테스트, Git/GitHub을 이용한 최종 버전 푸시 및 문서화
@@ -50,9 +55,9 @@ draft: false
 
 ---
 
-### 산출물
+### Result
 
-구현된 소스 코드 `ac_create.c` 
+구현된 소스 코드 일부 `ac_create.c` 
 
 ```c { linenos=true }
 #include <stdio.h>
@@ -102,49 +107,11 @@ int main(void) {
 
 ---
 
-### Emphasis
-
-The emphasis, aka italics, with _asterisks_ or _underscores_.
-
-Strong emphasis, aka bold, with **asterisks** or **underscores**.
-
-The combined emphasis with **asterisks and _underscores_**.
-
-Strike through uses two tildes. ~~Scratch this.~~
-
----
-
 ### Button
 
 {{< button label="Button" link="/" style="solid" >}}
 
 ---
-
-
-### Paragraph
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus, facilis placeat pariatur! Voluptatem, sed harum pariatur adipisci voluptates voluptatum cumque, porro sint minima similique magni perferendis fuga! Optio vel ipsum excepturi tempore reiciendis id quidem? Vel in, doloribus debitis nesciunt fugit sequi magnam accusantium modi neque quis, vitae velit, pariatur harum autem a! Velit impedit atque maiores animi possimus asperiores natus repellendus excepturi sint architecto eligendi non, omnis nihil. Facilis, doloremque illum. Fugit optio laborum minus debitis natus illo perspiciatis corporis voluptatum rerum laboriosam.
-
----
-
-### Ordered List
-
-1. List item
-2. List item
-3. List item
-4. List item
-5. List item
-
----
-
-### Unordered List
-
-- List item
-- List item
-- List item
-- List item
-- List item
-
 ---
 
 ### Notice
