@@ -1,18 +1,18 @@
 ---
 # Banner
 banner:
-  title: "my Profile"
-  content: "프랑스·아프리카학과와 컴퓨터인공지능학을 전공하며 기술과 인문학적 소통의 가치를 배워가고 있습니다. 데이터와 기술을 바탕으로 사람들의 일상을 더 편리하게 만드는 IT 서비스 기획자·PM을 꿈꿉니다."
+  title: "Tech × People"
+  content: "IT 서비스 기획자 권태영**언어**와 문화를 탐구하던 시선이 <span style="color: #2563EB; font-weight: bold;"> **코드**와 데이터</span>로 확장된 이야기"
   image: "/images/banner.png"
   image_alt: "Illustration of a person working on a laptop at a desk"
   button:
     enable: true
     label: "프로젝트 보러가기 👇"
-    link: "https://app.sitepins.com/new/clone?name=Hugoplate&repository=https://github.com/zeon-studio/hugoplate?aff=hugoplate"
+    link: "https://github.com/tae-young0"
 
 # Features
 features:
-  - title: "융합적 사고와 소통 중심의 IT 서비스 기획"
+  - title: ""
     image: "/images/service-1.png"
     image_alt: "Illustration of interface cards: a video player, bar charts, sliders and a loading spinner"
     content: "Hugoplate is a comprehensive starter template that includes everything you need to get started with your Hugo project. What's Included in Hugoplate"
