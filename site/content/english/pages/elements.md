@@ -10,7 +10,7 @@ draft: false
 
 {{< toc >}}
 
-### 📌 Experience
+###  Experience
 
 {{< accordion "학과 행사 브랜딩 & 기획" >}}
 
@@ -92,28 +92,6 @@ int main(void) {
 
 ---
 
-
-# Heading 1
-
-## Heading 2
-
-### Heading 3
-
-#### Heading 4
-
-##### Heading 5
-
-###### Heading 6
-
----
-
-### Button
-
-{{< button label="Button" link="/" style="solid" >}}
-
----
----
-
 ### Notice
 
 {{< notice "note" >}}
@@ -135,12 +113,6 @@ This is a simple info.
 {{< notice "warning" >}}
 This is a simple warning.
 {{< /notice >}}
-
----
-
-### Blockquote
-
-> 바이너리 파일 입출력과 구조체를 활용하여 신규 사용자 계정 레코드(1001, TaeYoung, 50000.0)를 데이터 파일(accounts.dat)에 안전하게 생성하는 모듈을 구현한 것입니다.
 
 ---
 
