@@ -8,7 +8,8 @@ draft: false
 ---
 ### 📌 목차
 * [🎯 1. 관심분야 및 선택 이유](#interest)
-* [🚀 2. 학습 목표와 실행 계획](#goals)
+* [🎯 2. 역량과 적용 사례](#competencies)
+* [🚀 3. 학습 목표와 실행 계획](#goals)
 
 ---
 ### 🎯 Interest {#interest}
@@ -25,7 +26,7 @@ draft: false
 세심한 시선과 원활한 소통 능력으로 개발진과 사용자 사이의 든든한 다리가 되어, 일상에 자연스럽게 스며드는 서비스 경험을 만들어가겠습니다.
 
 ---
-### 🎯 역량과 적용 사례 {#competencies}
+### 🎯 competencies{#competencies}
 
 {{< tabs >}}
 
