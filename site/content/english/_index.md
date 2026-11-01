@@ -2,7 +2,7 @@
 # Banner
 banner:
   title: "Tech × People"
-  content: "IT 서비스 기획자 권태영**언어**와 문화를 탐구하던 시선이 <span style="color: #2563EB; font-weight: bold;"> **코드**와 데이터</span>로 확장된 이야기"
+  content: "IT 서비스 기획자 권태영.언어와 문화를 탐구하던 시선이 <span style="color: #2563EB; font-weight: bold;"> 코드와 데이터</span>로 확장된 이야기"
   image: "/images/banner.png"
   image_alt: "Illustration of a person working on a laptop at a desk"
   button:
