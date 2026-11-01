@@ -1,9 +1,8 @@
 ---
 # Banner
 banner:
-  content: "**Bridging technology and users**"
-  content: "IT Product Manager"
-  title: "#★ Portfolio ★"
+  content: "IT Product Manager <br> **Bridging technology and users**"
+  title: "★ Portfolio ★"
   image: "/images/banner.png"
   image_alt: "Illustration of a person working on a laptop at a desk"
   button:
