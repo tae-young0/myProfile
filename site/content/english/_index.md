@@ -6,7 +6,7 @@ banner:
   image: "/images/banner.jpeg"
   image-alt: "Illustration of a person working on a laptop at a desk"
   button:
-    enable: true
+    enable: false
     label: "프로젝트 보러가기 👇"
     link: "https://github.com/tae-young0"
 
