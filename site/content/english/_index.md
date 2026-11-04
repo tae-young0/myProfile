@@ -3,7 +3,7 @@
 banner:
   content: "IT Product Manager <br> **Bridging technology and users**"
   title: "★ Portfolio ★"
-  image: "/images/banner.png"
+  image: "/images/banner.jpg"
   image-alt: "Illustration of a person working on a laptop at a desk"
   button:
     enable: false
