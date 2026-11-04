@@ -89,41 +89,6 @@ int main(void) {
   Linux 환경에서 C 언어 구조체 기반 바이너리 파일 포인터(`fseek`, `fread`, `fwrite`)를 직접 제어해 보며, 메모리와 실제 파일 시스템 간의 하부 데이터 처리 메커니즘을 깊이 있게 이해할 수 있었습니다. 또한, 명령줄 인수를 활용해 프로그램을 기능별로 모듈화하고 예외 처리를 정밀하게 설계하는 실무적 구현 역량을 익혔습니다.
 * **한계점 및 향후 개선 방향:**
   현재 시스템은 단일 로컬 바이너리 파일 구조로 작동하여 사용자 수가 급증할 경우 데이터 검색 효율이 저하되고 다중 사용자 접근 시 동시성 제어(Concurrency Control)가 어렵다는 한계가 있습니다. 이를 개선하기 위해 향후 **B-Tree 인덱싱 알고리즘**을 도입해 탐색 성능을 $O(1)$ 수준으로 최적화하고, SQLite나 PostgreSQL 같은 **관계형 데이터베이스(RDBMS)**와의 연동 및 파일 트랜잭션 잠금(Locking) 기술을 적용하여 데이터 안정성과 동시 처리 성능을 향상시킬 계획입니다.
-
----
-
-### Notice
-
-{{< notice "note" >}}
-This is a simple note.
-{{< /notice >}}
-
-{{< notice "quote" >}}
-This is a simple quote.
-{{< /notice >}}
-
-{{< notice "tip" >}}
-This is a simple tip.
-{{< /notice >}}
-
-{{< notice "info" >}}
-This is a simple info.
-{{< /notice >}}
-
-{{< notice "warning" >}}
-This is a simple warning.
-{{< /notice >}}
-
----
-
-### Tables
-
-| Tables        |      Are      |  Cool |
-| ------------- | :-----------: | ----: |
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      |   centered    |   $12 |
-| zebra stripes |   are neat    |    $1 |
-
 ---
 
 ### Gallery
