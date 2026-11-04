@@ -91,10 +91,4 @@ int main(void) {
   현재 시스템은 단일 로컬 바이너리 파일 구조로 작동하여 사용자 수가 급증할 경우 데이터 검색 효율이 저하되고 다중 사용자 접근 시 동시성 제어(Concurrency Control)가 어렵다는 한계가 있습니다. 이를 개선하기 위해 향후 **B-Tree 인덱싱 알고리즘**을 도입해 탐색 성능을 $O(1)$ 수준으로 최적화하고, SQLite나 PostgreSQL 같은 **관계형 데이터베이스(RDBMS)**와의 연동 및 파일 트랜잭션 잠금(Locking) 기술을 적용하여 데이터 안정성과 동시 처리 성능을 향상시킬 계획입니다.
 ---
 
-### Gallery
-
-{{< gallery dir="images/gallery" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
-
----
-
 
