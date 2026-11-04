@@ -39,9 +39,4 @@ features:
       enable: true
       label: "Get Started Now"
       link: "https://github.com/zeon-studio/hugoplate"
-
-    button:
-      enable: false
-      label: ""
-      link: ""
 ---
