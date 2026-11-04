@@ -13,6 +13,14 @@ html {
   margin: 0 auto;    /* 이미지를 가운데 정렬하고 싶을 때 사용 */
 }
 
-body {
-  background-color: #f0f8ff !important; /* 연한 하늘색 배경 */
+/* Light Green 배경 + Purple 포인트 */
+.theme-card-green {
+  background-color: #D8F382 !important;
+  color: #826DEE !important;
+}
+
+/* Purple 배경 + Light Green 포인트 */
+.theme-card-purple {
+  background-color: #826DEE !important;
+  color: #D8F382 !important;
 }
