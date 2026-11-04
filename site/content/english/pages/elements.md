@@ -12,19 +12,19 @@ draft: false
 
 ###  Experience
 
-{{< accordion "학과 행사 브랜딩 & 기획 🟢 완료" >}}
+{{< accordion "학과 행사 브랜딩 & 기획 | 🟢 완료" >}}
 
-- 홍보국 이끌며 기획·집행부 간 의사소통 조율, 홍보물 제작 및 온·오프라인 행사 동선 프로세스 총괄
 - Duration: Jan. 2024 - Dec. 2025 | 홍보국장
+- 홍보국 이끌며 기획·집행부 간 의사소통 조율, 홍보물 제작 및 온·오프라인 행사 동선 프로세스 총괄
 {{< /accordion >}}
 ---
 
 ###  Projects
 
-{{< accordion "Linux C 기반 계정 관리 시스템 개발 🟡 진행 중" >}}
+{{< accordion "Linux C 기반 계정 관리 시스템 개발 | 🟡 진행 중" >}}
 
-- Ubuntu Linux 환경에서 C 언어와 바이너리 파일 입출력(File I/O)을 활용하여 사용자 계정 생성, 조회, 수정 기능을 갖춘 프로그램(`ac_create.c`, `ac_query.c`, `ac_update.c`)을 직접 설계하고 구현
 - Duration: Sept. 2026 ~ | 개인 프로젝트
+- Ubuntu Linux 환경에서 C 언어와 바이너리 파일 입출력(File I/O)을 활용하여 사용자 계정 생성, 조회, 수정 기능을 갖춘 프로그램(`ac_create.c`, `ac_query.c`, `ac_update.c`)을 직접 설계하고 구현
 
 {{< /accordion >}}
 
