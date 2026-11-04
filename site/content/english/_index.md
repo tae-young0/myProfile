@@ -18,25 +18,12 @@ features:
     content:
     bulletpoints:
     
-      - "기초 알고리즘부터 간단한 웹·데이터 처리 코드까지 자유롭게 작성하는 수준"
-      - "기본 모델 개념을 이해하고, API나 프레임워크를 활용해 서비스에 적용해보는 수준"
-      - "원서 및 기술 문서 해독이 가능하고, 기초적인 영어 소통이 가능한 단계"
-      - "Git, GitHub Actions, Vue.js 등을 활용한 정적·웹 애플리케이션 프로젝트 경험"
+      - "**Python** : 자료구조와 알고리즘에 대한 이해를 바탕으로 기획한 아이디어를 직접 코드로 구현하는 주력 언어"
+      - "**AI** : 최신 인공지능 모델 개념과 API를 이해하고 서비스에 실용적인 AI 기능을 녹여내는 기획 감각"
+      - "**English** : 원서 및 기술 문서 해독이 가능하고, 기초적인 영어 소통이 가능한 단계"
+      - "**Git** : 브랜치 전략과 커밋 워크플로우를 이해하며 개발진과 원활하게 소통하는 버전 관리 능력"
     button:
       enable: false
       label: "Get Started Now"
       link: "#"
-
-  - title: "언어의 맥락을 읽던 시선으로, 유저와 IT 서비스를 연결합니다."
-    image: "/images/service-2.png"
-    image_alt: "Illustration of chart cards: bar charts, a donut chart and a line graph"
-    content: "Hugo is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
-    bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
-    button:
-      enable: true
-      label: "Get Started Now"
-      link: "https://github.com/zeon-studio/hugoplate"
 ---
