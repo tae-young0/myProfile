@@ -3,9 +3,8 @@
 banner:
   content: "IT Product Manager <br> **Bridging technology and users**"
   title: "★ Portfolio ★"
-  image:
-    src: "/images/banner.jpeg"
-    alt: "Illustration of a person working on a laptop at a desk"
+  image: "/images/banner.jpeg"
+  image-alt: "Illustration of a person working on a laptop at a desk"
   button:
     enable: true
     label: "프로젝트 보러가기 👇"
