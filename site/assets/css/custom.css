@@ -3,3 +3,16 @@ html {
   /* 상단 고정 네비게이션 바의 높이만큼 여백을 줌 (보통 70px ~ 100px 사이) */
   scroll-padding-top: 100px; 
 }
+.banner img,
+.banner-image img {
+  max-width: 80px !important; /* 원하는 최대 가로 크기 */
+  width: 100%;       /* 모바일 화면에서는 화면 크기에 맞춰 유연하게 줄어들도록 설정 */
+  height: auto !important;     /* 이미지 비율이 일그러지지 않도록 자동 조절 */
+  display: block;
+  border-radius: 8px; /* 모서리를 살짝 둥글게 */
+  margin: 0 auto;    /* 이미지를 가운데 정렬하고 싶을 때 사용 */
+}
+
+body {
+  background-color: #f0f8ff !important; /* 연한 하늘색 배경 */
+}
