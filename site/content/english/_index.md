@@ -3,12 +3,12 @@
 banner:
   content: "IT Product Manager <br> **Bridging technology and users**"
   title: "★ Portfolio ★"
-  <img src="/images/banner.jpeg" alt="증명사진" style="max-width: 80px; width: 100%; height: auto; border-radius: 6px;">
   image_alt: "Illustration of a person working on a laptop at a desk"
   button:
     enable: true
     label: "프로젝트 보러가기 👇"
     link: "https://github.com/tae-young0"
+<img src="/images/banner.jpeg" alt="증명사진" style="max-width: 80px; width: 100%; height: auto; border-radius: 6px;">
 
 # Features
 features:
