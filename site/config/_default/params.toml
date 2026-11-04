@@ -77,7 +77,7 @@ content = "<span class='text-center block'>♥️ Loving Hugoplate? <a class='un
 keywords = ["Boilerplate", "Hugo"]
 description = "Hugo & Tailwindcss Starter"
 author = "zeon.studio"
-twitter = "zeon_studio"
+#twitter = "zeon_studio"
 image = "images/og-image.png"
 
 
@@ -87,7 +87,7 @@ image = "images/og-image.png"
 google = ""   # Your verification code
 bing = ""     # Your verification code
 baidu = ""    # Your verification code
-facebook = "" # Your verification code
+#facebook = "" # Your verification code
 mastodon = "" # Your verification code
 
 # cookies
