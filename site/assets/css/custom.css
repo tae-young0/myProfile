@@ -1,1 +1,5 @@
 /* Add your own custom styles here */
+html {
+  /* 상단 고정 네비게이션 바의 높이만큼 여백을 줌 (보통 70px ~ 100px 사이) */
+  scroll-padding-top: 100px; 
+}

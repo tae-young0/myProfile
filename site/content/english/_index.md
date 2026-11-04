@@ -1,7 +1,7 @@
 ---
 # Banner
 banner:
-  content: "IT Product Manager <br> **Bridging technology and users**"
+  content: "Gwon Tae young<br>IT Product Manager <br> **Bridging technology and users**"
   title: "★ Portfolio ★"
   image: "/images/banner.jpg"
   image-alt: "Illustration of a person working on a laptop at a desk"
