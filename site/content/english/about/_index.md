@@ -2,17 +2,17 @@
 title: "(IT Product Manager)"
 meta_title: "About"
 description: "this is meta description"
-image: "/images/image-placeholder.png"
+image: "/images/image-placeholder.jpg"
 layout: "about"
 draft: false
 ---
-### 📌 목차
-* [🎯 1. 관심분야 및 선택 이유](#interest)
-* [🎯 2. 역량과 적용 사례](#competencies)
-* [🚀 3. 학습 목표와 실행 계획](#goals)
+### 📌 Table of Contents
+* [🎯 1. Interest](#interest)
+* [🎯 2. Competencies](#competencies)
+* [🚀 3. Goals](#goals)
 
 ### Education
-- 2024.03 전북대학교 프랑스아프리카학과 입학   (컴퓨터인공지능학부 복수전공)
+- 2024.03 전북대학교 프랑스아프리카학과 입학
 ---
 
 ### About 
