@@ -20,12 +20,6 @@ weight = 3
 weight = 4
 name = "Pages"
 
-[[main]]
-parent = "Pages"
-name = "Contact"
-url = "/contact"
-
-
 # footer menu
 [[footer]]
 name = "About"
@@ -37,7 +31,3 @@ name = "Elements"
 url = "/elements"
 weight = 2
 
-[[footer]]
-name = "Privacy Policy"
-url = "/privacy-policy"
-weight = 3
