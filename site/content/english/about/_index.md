@@ -2,7 +2,7 @@
 title: "(IT Product Manager)"
 meta_title: "About"
 description: "this is meta description"
-image: "/images/image-placeholder.jpg"
+image: "/images/image-placeholder.png"
 layout: "about"
 draft: false
 ---
