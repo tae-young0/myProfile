@@ -12,15 +12,14 @@ html {
   border-radius: 8px; /* 모서리를 살짝 둥글게 */
   margin: 0 auto;    /* 이미지를 가운데 정렬하고 싶을 때 사용 */
 }
-
-/* Light Green 배경 + Purple 포인트 */
-.theme-card-green {
-  background-color: #D8F382 !important;
-  color: #826DEE !important;
+:root {
+  --body-color: #1E293B;
+  --theme-color: #1E293B;
+  --theme-color-light: #38BDF8;
+  --bg-color: #F7F5EE;
 }
 
-/* Purple 배경 + Light Green 포인트 */
-.theme-card-purple {
-  background-color: #826DEE !important;
-  color: #D8F382 !important;
+body, html {
+  background-color: var(--bg-color) !important;
+  color: var(--body-color) !important;
 }
