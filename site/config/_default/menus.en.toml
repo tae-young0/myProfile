@@ -16,10 +16,6 @@ name = "Elements"
 url = "/elements"
 weight = 3
 
-[[main]]
-weight = 4
-name = "Pages"
-
 # footer menu
 [[footer]]
 name = "About"

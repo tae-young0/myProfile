@@ -6,10 +6,10 @@ image: "/images/image-placeholder.png"
 layout: "about"
 draft: false
 ---
-### 📌 Table of Contents
-* [🎯 1. Interest](#interest)
-* [🎯 2. Competencies](#competencies)
-* [🚀 3. Goals](#goals)
+### Table of Contents
+* [1. Interest](#interest)
+* [2. Competencies](#competencies)
+* [3. Goals](#goals)
 
 ### Education
 - 2024.03 전북대학교 프랑스아프리카학과 입학
